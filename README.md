@@ -22,7 +22,7 @@ In this Specialization, you will build and train neural network architectures su
 
 AI is transforming many industries. The Deep Learning Specialization provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career. Along the way, you will also get career advice from deep learning experts from industry and academia.
 
-#### © Copyright DeepLearning.AI
+#### © Copyright [DeepLearning.AI](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)
 
 #### © Copyright 2021 - [Debdatta Sarkar](https://github.com/debdattasarkar)
 
